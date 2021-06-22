@@ -9,7 +9,7 @@ A Software Engineer with many years of experience writing scalable, high-quality
 ## Stats
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadshabib&show_icons=true&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
 
-![Ahmad's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshabib&count_private=true&include_all_commits=true&layout=compact&hide=glsl&langs_count=10&title_color=eb1b0c&icon_color=eb1b0c)
+![Ahmad's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadshabib&exclude_repo=github.ahmadshabib.io,SpringCRUD,README-Spotify-Status&count_private=true&include_all_commits=true&layout=compact&hide=glsl&langs_count=10&title_color=eb1b0c&icon_color=eb1b0c)
 
 ![Ahmad's Commit strick](https://github-readme-streak-stats.herokuapp.com/?user=ahmadshabib&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&count_private=true&include_all_commits=true&title_color=eb1b0c&icon_color=eb1b0c)
 
