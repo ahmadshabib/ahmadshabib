@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A Software Engineer with many years of experience writing scalable, high-quality backend code (Java/Kotlin).
+Engineering lead with many years of experience writing scalable, high-quality backend code (Java/Kotlin).
 
 ## 💼 Job
 
@@ -9,7 +9,7 @@ A Software Engineer with many years of experience writing scalable, high-quality
 
 ## 📫 How to reach me
 
-You can find and get in touch with me on below accounts!
+You can find and get in touch with me on the below accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/ahmadshabib-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmad-shabib/)
 
