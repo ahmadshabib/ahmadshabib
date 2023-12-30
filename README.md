@@ -16,3 +16,6 @@ You can find and get in touch with me on the below accounts!
 ## ⚡ Listening to
 
 [<img src="https://readme-spotify-status-eight.vercel.app/api/run-spotify-status" alt="Your alt what" width="400" />](https://open.spotify.com/user/21b7jcoz6vi2momag3wmc3v4q)
+
+
+[![](https://visitcount.itsvg.in/api?id=Ahmad&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
